@@ -1,0 +1,2106 @@
+{
+  "settings": {
+    "name": "USI",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#3d8eb9",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#fac51c",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 74,
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "USI - UNLOCKED SOFTWARE INC",
+        "meta_descr": "USI - UNLOCKED SOFTWARE INC",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.7rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.758rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#3d8eb9!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.7",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/coollogo-com-1-163x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">UNLOCKED SOFTWARE INC</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"free_software.html\">SOFTWARE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"free_game.html\">GAMES</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"help_download.html\">DOWNLOAD</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "USI&nbsp;<div>-----------------------</div><div>&nbsp;UNLOCKED SOFTWARE INC</div><div>-----------------------</div>",
+          "text": "Paid Software For Free! - Always Free! - Always Ad Free - Always Safe!<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"free_game.html\" data-toolbar=\"-mbrBtnMove\">BROWSE GAMES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"free_software.html\" data-toolbar=\"-mbrBtnMove\">BROWSE SOFTWARE</a>"
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#3d8eb9"
+            }
+          },
+          "_anchor": "features2-3",
+          "_params": {
+            "columnsColor": "#3d8eb9",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fac51c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "protect",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fac51c",
+              "newWindow": false
+            }
+          },
+          "title1": "SAFE",
+          "subtitle1": "USI has been tested",
+          "caption1": "USI has been tested by many anti-malware sites, including Malware bytes and Virus total, making it 100% virus free!",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "unlock",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#27aae0",
+              "newWindow": false
+            }
+          },
+          "title2": "UNLOCKED",
+          "subtitle2": "USI is always unlocked and free",
+          "caption2": "USI has been cracked by our hard team, and have managed to make it free for your, forever!",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "desktop",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title3": "MULTI-PLATFORM",
+          "subtitle3": "USI is multi-platform!",
+          "caption3": "Have windows, or mac? And the software originally runs of either. Well your in luck! It will work on all systems!",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "save",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false,
+              "color": "#27aae0"
+            }
+          },
+          "title4": "SECURE DOWNLOAD",
+          "subtitle4": "USI makes sure your file is secure",
+          "caption4": "We use the secure Mega.nz to host our cracks, this means they will always be avalible, even if the sites down!",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "testimonials2",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials4",
+          "_styles": {
+            ".card-footer > div": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p>“So easy to do!!! Just one click, instal and done”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "DustyDaDragon",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>“Best craked website out there! Nice GUI and updated daily”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "PawDiePie",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>“I have a lot of potential for this site and i think it will easily suceed”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Bøb",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials4-5",
+          "_params": {
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/9b9cefa3d0b19285a39163230b8edb09-2000x1125.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": false
+          },
+          "title": "WHAT OUR FANTASTIC USERS SAY",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-17",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": true,
+            "odnoklassniki": true
+          },
+          "text": "SHARE THIS PAGE!"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-18",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "GET UPCOMMING GAMES AND SOFTWARE",
+          "subtitle": "Subscribe to our Newsletter",
+          "form": {
+            "action": "dan-lee1@hotmail.co.uk",
+            "alerts": {
+              "success": "YOUVE SUBSCRIBED!!!!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-19",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 UNLOCKED SOFTWARE INC - A <a href=\"unlockedinc.uk.to\">UNLOCKED INC</a> COMAPNY"
+        }
+      ]
+    },
+    "free_software.html": {
+      "settings": {
+        "title": "USI - UNLOCKED SOFTWARE INC",
+        "meta_descr": "USI - UNLOCKED SOFTWARE INC"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.7rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.758rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#3d8eb9!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-b",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.7",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/coollogo-com-1-163x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">UNLOCKED SOFTWARE INC</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"free_software.html\">SOFTWARE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"free_game.html\">GAMES</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"help_download.html\">DOWNLOAD</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-g",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "SOFTWARE",
+          "text": "<p>-- 15/07/17 --</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H4": {
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "content1-o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#3d8eb9"
+          },
+          "text": "<h4>A-------------------------------------------------------------------------------------------------------------------------</h4>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "right",
+              "font-size": "36px",
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "msg-box5-m",
+          "_params": {
+            "imageSize": "20",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#3d8eb9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/adobe-acrobat-dc-icon-1400x1400.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ADOBE ACROBAT DC",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mega.nz/#!0LYCwTBB!U8vF2LWEg_Ia84t2xmH8Sr5hluyE2CoSrBC6XjSw6_Y\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "36px",
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "msg-box5-q",
+          "_params": {
+            "imageSize": "20",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#3d8eb9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/adobe-after-effects-cc-icon-1400x1400.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ADOBE AFTER EFFECTS 2017",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mega.nz/#!lWIWQCzZ!CmZuEWJK_qBIsnLF_nICVMnzE-YcWb2RHenJ-N07etE\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#fac51c",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "msg-box5-1b",
+          "_params": {
+            "imageSize": "20",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#3d8eb9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/download-1400x1369.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ADOBE AUDITION 2017",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mega.nz/#!pbRFnSgS!1B2EonxLLgLRVjaNIWAIgn_RNvXU_RfaLliGNNRSdl8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "36px",
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "msg-box5-v",
+          "_params": {
+            "imageSize": "20",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#3d8eb9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/download-1-1400x1369.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ADOBE DREAMWEAVER 2017",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mega.nz/#!FGwWybYR!Ssg8edZ7WqgN_nXb2TZhz8iVBqLzh-vFJJtWymvcf3c\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#fac51c",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "msg-box5-1c",
+          "_params": {
+            "imageSize": "20",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#3d8eb9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/download-2-1400x1369.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ADOBE ILLUSTRATOR 2017",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mega.nz/#!EDZznbwY!k_5CUAy316eMz9nEv-wezJ7A0C0BxGp7y1Jgy5WpiXc\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "36px",
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "msg-box5-1d",
+          "_params": {
+            "imageSize": "20",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#3d8eb9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/download-3-1400x1369.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ADOBE INDESIGN 2017",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mega.nz/#!caZika5A!cl3IzDqyqgAwqS7lymNJ84W01Coa214woMsBcP1k1q8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#fac51c",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "msg-box5-1e",
+          "_params": {
+            "imageSize": "20",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#3d8eb9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/download-4-1400x1369.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ADOBE &nbsp;LIGHTROOM 2017",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mega.nz/#!oC5VwByK!8LRijuY1fIwVHvM9NW9qD7ORxKSz1CPBxL-PgwXFXvg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "36px",
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "msg-box5-z",
+          "_params": {
+            "imageSize": "20",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#3d8eb9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/download-5-1400x1369.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ADOBE PHOTOSHOP 2017",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mega.nz/#!laJxDKBL!9sXoV-haS-Jl67S9Sqiig9_QbEpJFvzIjqZAh1tt7IY\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "right",
+              "font-size": "36px",
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "msg-box5-10",
+          "_params": {
+            "imageSize": "20",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#3d8eb9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/download-6-1400x1369.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ADOBE PRELUDE 2017",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mega.nz/#!IPwVhaxZ!crjuq00TcrQcerq7R1PwYkWzRIEPgpsJWI7WEdhbqR0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#fac51c",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "msg-box5-1f",
+          "_params": {
+            "imageSize": "20",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#3d8eb9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/download-7-1400x1369.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ADOBE PREMIER PRO 2017",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mega.nz/#!sDw3wRDb!XZ6lW0eRlc2sRKymfVDxGeA7eCMDLH_Z-arZNcZTxXY\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "36px",
+              "color": "#fac51c"
+            },
+            "P": {
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "msg-box5-1g",
+          "_params": {
+            "imageSize": "20",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#3d8eb9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/download-1400x1369.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ADOBE CC CRACK SUITE",
+          "text": "Includes everything abouve",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mega.nz/#!5L5DRYbA!5-TQMjQRdvbHebo4YwggnvC3dDSFIF6NmS3uoo9LQhw\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H4": {
+              "color": "#3d8eb9"
+            }
+          },
+          "_anchor": "content1-14",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fac51c"
+          },
+          "text": "<h4>V-------------------------------------------------------------------------------------------------------------------------</h4>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "36px",
+              "color": "#3d8eb9"
+            }
+          },
+          "_anchor": "msg-box5-16",
+          "_params": {
+            "imageSize": "20",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fac51c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sony-vegas-pro-14-icon-1400x1400.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "VEGAS PRO 14",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mega.nz/#!xCpV0QyA!Xkp-HkIQF52VZQ51ZuKCWDscVuPJjY2gxjT_I4PjPak\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-1h",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "GET UPCOMMING GAMES AND SOFTWARE",
+          "subtitle": "Subscribe to our Newsletter",
+          "form": {
+            "action": "dan-lee1@hotmail.co.uk",
+            "alerts": {
+              "success": "YOUR SUPSCRIBED!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-19",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 UNLOCKED SOFTWARE INC - A <a href=\"unlockedinc.uk.to\">UNLOCKED INC</a> COMAPNY"
+        }
+      ]
+    },
+    "help_download.html": {
+      "settings": {
+        "title": "USI - UNLOCKED SOFTWARE INC",
+        "meta_descr": "USI - UNLOCKED SOFTWARE INC"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.7rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.758rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#3d8eb9!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1i",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.7",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/coollogo-com-1-163x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">UNLOCKED SOFTWARE INC</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"free_software.html\">SOFTWARE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"free_game.html\">GAMES</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"help_download.html\">DOWNLOAD</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#3d8eb9"
+            },
+            "SMALL": {
+              "color": "#3d8eb9"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1m",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#fac51c",
+            "showMeta": true
+          },
+          "title": "HOW TO DOWNLOAD",
+          "meta": "DOWNLOADING MADE EASY"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#3d8eb9",
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "msg-box5-1n",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fac51c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/2017-07-15-2-1400x702.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "1. Select Download from a product",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-size": "22px",
+              "color": "#3d8eb9"
+            }
+          },
+          "_anchor": "msg-box5-1o",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fac51c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/2017-07-15-3-1400x683.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "2. Wait for MEGA.NZ to load and click download through broswer",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#3d8eb9",
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "msg-box5-1p",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fac51c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/2017-07-15-8-1400x472.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "3. This will star to download in &nbsp;MEGA.NZ and will start to decrypt",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#3d8eb9",
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "msg-box5-1r",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fac51c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/2017-07-15-5-1400x201.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "4. It will then be downloaded",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1j",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 UNLOCKED SOFTWARE INC - A <a href=\"unlockedinc.uk.to\">UNLOCKED INC</a> COMAPNY"
+        }
+      ]
+    },
+    "free_game.html": {
+      "settings": {
+        "title": "USI - UNLOCKED SOFTWARE INC",
+        "meta_descr": "USI - UNLOCKED SOFTWARE INC"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.7rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.758rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#3d8eb9!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1s",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.7",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/coollogo-com-1-163x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">UNLOCKED SOFTWARE INC</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"free_software.html\">SOFTWARE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"free_game.html\">GAMES</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"help_download.html\">DOWNLOAD</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1t",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 UNLOCKED SOFTWARE INC - A <a href=\"unlockedinc.uk.to\">UNLOCKED INC</a> COMAPNY"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1u",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/yi0ojr-2000x1125.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "GAMES",
+          "text": "<p>-- 15/07/17 --</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "24px",
+              "color": "#3d8eb9",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "content1-1w",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fac51c"
+          },
+          "text": "<p><b>A-------------------------------------------------------------------------------------------------------------------------</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "24px",
+              "color": "#fac51c",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "content1-21",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#3d8eb9"
+          },
+          "text": "<p><b>F-------------------------------------------------------------------------------------------------------------------------</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "msg-box5-20",
+          "_params": {
+            "imageSize": "31",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#3d8eb9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/header-1400x654.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "FACTORIO",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mega.nz/#!tGBxwQZC!xp5oX5WadkYnnlINvs7uozL3exp2Ga7EIT-VjpndC7I\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "24px",
+              "color": "#3d8eb9",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "content1-1y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fac51c"
+          },
+          "text": "<p><b>M-------------------------------------------------------------------------------------------------------------------------</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#3d8eb9"
+            }
+          },
+          "_anchor": "msg-box5-1z",
+          "_params": {
+            "imageSize": "31",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fac51c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/minecraft-logo-1400x306.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "MINECRAFT 1.12",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mega.nz/#!JHYAzJDI!b7UFAodtrydzoWF7j2AwNjdRiA1tXDRGKvNTUEXXJcA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a>"
+        }
+      ]
+    }
+  }
+}
