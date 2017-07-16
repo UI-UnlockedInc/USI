@@ -554,6 +554,7 @@ h6,
 }
 #content1-o H4 {
   color: #fac51c;
+  text-align: center;
 }
 #msg-box5-m H3 {
   text-align: right;
@@ -609,6 +610,7 @@ h6,
 }
 #content1-14 H4 {
   color: #3d8eb9;
+  text-align: center;
 }
 #msg-box5-16 H3 {
   font-size: 36px;
@@ -779,19 +781,24 @@ h6,
   font-size: 24px;
   color: #3d8eb9;
   font-family: 'Montserrat', sans-serif;
+  text-align: center;
 }
 #content1-21 P {
   font-size: 24px;
   color: #fac51c;
   font-family: 'Montserrat', sans-serif;
+  text-align: center;
 }
 #msg-box5-20 H3 {
   color: #fac51c;
 }
-#content1-1y P {
-  font-size: 24px;
+#content1-23 DIV {
   color: #3d8eb9;
+  text-align: center;
   font-family: 'Montserrat', sans-serif;
+}
+#content1-23 B {
+  font-size: 22px;
 }
 #msg-box5-1z H3 {
   color: #3d8eb9;
