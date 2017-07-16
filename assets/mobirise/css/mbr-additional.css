@@ -616,10 +616,10 @@ h6,
   font-size: 36px;
   color: #3d8eb9;
 }
-#form2-1h .mbr-section-title {
+#form2-26 .mbr-section-title {
   color: #fff;
 }
-#form2-1h .mbr-section-subtitle {
+#form2-26 .mbr-section-subtitle {
   color: #a0a0a0;
 }
 #menu-1i .hide-buttons .nav-btn {
@@ -708,6 +708,12 @@ h6,
 #msg-box5-1r P {
   color: #3d8eb9;
   font-size: 22px;
+}
+#form2-25 .mbr-section-title {
+  color: #fff;
+}
+#form2-25 .mbr-section-subtitle {
+  color: #a0a0a0;
 }
 
 
@@ -802,4 +808,10 @@ h6,
 }
 #msg-box5-1z H3 {
   color: #3d8eb9;
+}
+#form2-24 .mbr-section-title {
+  color: #fff;
+}
+#form2-24 .mbr-section-subtitle {
+  color: #a0a0a0;
 }
